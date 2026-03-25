@@ -14,6 +14,9 @@ O projeto foi totalmente desenvolvido e provisionado no ecossistema Microsoft Az
 * **Compute Instance:** Treinamento realizado em ambiente gerenciado do Azure Machine Learning.
 * **Monitoramento e Logging:** Utilização do `MLflow` para versionamento de experimentos, rastreamento de métricas e registro de artefatos (Model Registry).
 * **LLM Integration:** Uso do modelo `gpt-4o` via Azure OpenAI Service para Geração de Texto.
+
+  ![azure_diagram](https://github.com/user-attachments/assets/29ff7842-7e99-4bdb-a2f7-b07bc46cbcdc)
+
 ---
 
 ## 3. Otimização via Algoritmos Genéticos
